@@ -84,6 +84,16 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "images/skull.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/skull.svg"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
