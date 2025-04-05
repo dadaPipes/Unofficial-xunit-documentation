@@ -1,9 +1,7 @@
 ### YamlMime:ManagedReference
 
-- name: Start Page
+- name: About
   href: ../index.md
 
-- name: Getting Started
-  href: getting-started.md
-- name: Introduction
-  href: introduction.md
+- name: V3-2.0.0
+  href: https://dadapipes.github.io/Unofficial-xunit-documentation-v3-2-0-0/

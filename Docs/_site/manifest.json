@@ -12,16 +12,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/getting-started.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/getting-started.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "docs/introduction.md",
       "output": {
         ".html": {
@@ -39,6 +29,56 @@
         },
         ".json": {
           "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Bluesky-Logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Bluesky-Logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/DevExpress-Logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/DevExpress-Logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Jetbrains-Logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Jetbrains-Logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Mastodon-Logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/Mastodon-Logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/NCrunch-Logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/NCrunch-Logo.png"
         }
       },
       "version": ""

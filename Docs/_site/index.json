@@ -1,9 +1,4 @@
 {
-  "docs/getting-started.html": {
-    "href": "docs/getting-started.html",
-    "title": "Getting Started | Unofficial xunit docs",
-    "summary": "Getting Started"
-  },
   "docs/introduction.html": {
     "href": "docs/introduction.html",
     "title": "Introduction | Unofficial xunit docs",
@@ -11,7 +6,7 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "Start page | Unofficial xunit docs",
-    "summary": "Start page Bacon ipsum dolor amet culpa tenderloin shoulder excepteur ribeye. In culpa consequat short ribs officia bresaola pork ground round salami. Aliquip dolore dolor frankfurter reprehenderit elit. Proident sirloin ut lorem. Cow laborum pancetta, andouille et salami rump pig tri-tip dolor pork chop kielbasa. Brisket laborum incididunt, elit nostrud sint andouille rump esse ham hock culpa burgdoggen. Hamburger laboris consequat irure excepteur pork loin cupidatat nulla burgdoggen tail flank dolore short ribs pork chop. In do sausage, irure sed spare ribs id biltong nostrud. Jerky burgdoggen aute ground round kielbasa. Brisket beef consectetur, ut in ea tongue beef ribs pig frankfurter pancetta buffalo lorem. Prosciutto laborum sirloin labore, aliqua fatback shankle nisi eiusmod reprehenderit landjaeger. Capicola ad veniam ut qui pastrami commodo cillum filet mignon. Et sunt fugiat incididunt culpa mollit, turducken shankle reprehenderit ipsum ribeye pancetta cow kielbasa venison. https://baconipsum.com/"
+    "title": "About xUnit.net | Unofficial xunit docs",
+    "summary": "About xUnit.net xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with command line tools, Visual Studio, Visual Studio Code, ReSharper/Rider, CodeRush, and NCrunch. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license). Follow xUnit.net: Mastodon BlueSky Maintainers: \uD83D\uDEE0️ James Newkirk \uD83D\uDEE0️ Brad Wilson \uD83D\uDEE0️ Claire Novotny Community & Support: \uD83D\uDCE2 Join discussions on our discussions site. ReSharper/Rider support: Provided and maintained by JetBrains. CodeRush support: Provided and maintained by DevExpress. : Provided and maintained by Remco Software. Acknowledgments: \uD83C\uDFA8 The xUnit.net logo was designed by Nathan Young."
   }
 }
