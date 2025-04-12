@@ -23,7 +23,7 @@ It is licensed under [Apache 2](https://www.apache.org/licenses/LICENSE-2.0.html
 - 📢 Join discussions on our [discussions site](https://github.com/xunit/xunit/discussions/).
 - <img src="images/Jetbrains-Logo.png" alt="Jetbrains logo" width="22" height="22" /> ReSharper/Rider support: Provided and maintained by [JetBrains](https://www.jetbrains.com/).
 - <img src="images/DevExpress-Logo.png" alt="DevExpress Logo" width="22" height="22" /> CodeRush support: Provided and maintained by [DevExpress](https://www.devexpress.com/).
-- <img src="images/NCrunch-Logo.png" alt="NCrunch Logo" width="22" height="22" /> : Provided and maintained by [Remco Software](https://www.ncrunch.net/).
+- <img src="images/NCrunch-Logo.png" alt="NCrunch Logo" width="22" height="22" /> NCrunch : Provided and maintained by [Remco Software](https://www.ncrunch.net/).
 
 **Acknowledgments**:
 
